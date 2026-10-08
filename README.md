@@ -22,3 +22,5 @@ Repositório de testes de autenticações
 10 - Realizando um teste de Branch versão_04.3
 
 11 - Teste para Branch etapa do merge
+
+12 - Teste para a mesma Branch versão_05 - Atualização dessa branch já criada para a Main
