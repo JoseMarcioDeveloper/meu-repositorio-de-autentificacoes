@@ -20,3 +20,5 @@ Repositório de testes de autenticações
 9 - Realizando um teste de Branch versão_04.2
 
 10 - Realizando um teste de Branch versão_04.3
+
+11 - Teste para Branch etapa do merge
