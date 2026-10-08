@@ -18,3 +18,5 @@ Repositório de testes de autenticações
 8 - Realizando um teste de Branch versão_04.1
 
 9 - Realizando um teste de Branch versão_04.2
+
+10 - Realizando um teste de Branch versão_04.3
