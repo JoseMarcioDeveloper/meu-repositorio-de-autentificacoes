@@ -11,3 +11,4 @@ Repositório de testes de autenticações
 
 5 - Realizando alterações de teste para a nossa branch versao_01.
 
+6 - Realizando um teste de Branch versão_03
